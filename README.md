@@ -1,28 +1,28 @@
 <div align="center">
 
 <!-- Typing animation banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Software+Engineering+%26+AI+Student;Building+intelligent+systems...;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+%5BHajar+Slimani%5D+%F0%9F%91%8B;Software+Engineering+%26+AI+Student;Building+intelligent+systems...;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_WEBSITE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hajar-slimani-8998262ab)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://melodic-sunshine-93d1bf.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hajarslimani484@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎓 Software Engineering & AI student passionate about building intelligent systems
-- 🤖 Focused on **Machine Learning**, **Computer Vision**, and **Deep Learning**
-- 🌐 Full-stack developer comfortable from database to deployment
-- 🔭 Currently exploring **Reinforcement Learning** and **Generative AI**
-- ⚡ Fun fact: I speak to both humans and machines fluently
+- Software Engineering & AI student passionate about building intelligent systems
+- Focused on **Machine Learning**, **Computer Vision**, and **Deep Learning**
+- Full-stack developer comfortable from database to deployment
+- Currently exploring **Reinforcement Learning** and **Generative AI**
+- Fun fact: I speak to both humans and machines fluently
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -56,19 +56,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
