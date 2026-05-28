@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+%5BHajar+Slimani%5D+%F0%9F%91%8B;Software+Engineering+%26+AI+Student;Building+intelligent+systems...;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Hajar+Slimani%F0%9F%91%8B;Software+Engineering+%26+AI+Student;Building+intelligent+systems...;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hajar-slimani-8998262ab)
@@ -56,10 +56,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-
+<!--
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -70,11 +70,10 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6E40C9&style=flat-square" alt="profile views" />
   <p><em>"Code is poetry — I just write mine in Python."</em></p>
 </div>
 
-<!--
+
 **HajarSlimani/HajarSlimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
