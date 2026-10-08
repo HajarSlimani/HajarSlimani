@@ -18,7 +18,6 @@
 - Focused on **Machine Learning**, **Computer Vision**, and **Deep Learning**
 - Full-stack developer comfortable from database to deployment
 - Currently exploring **Reinforcement Learning** and **Generative AI**
-- Fun fact: I speak to both humans and machines fluently
 
 ---
 
